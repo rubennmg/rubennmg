@@ -1,12 +1,18 @@
 <h1 align="center">Hi 👋, I'm Rubén</h1>
 
+<h4 align="center">
+  💻 Computer Engineer · MSc in Computer Engineering · Software Development, System Architecture & Applied Research
+</h4>
+
 <p align="center">
-  Computer Engineer · MSc in Computer Engineering · Software Development, System Architecture & Applied Research
+  <a href="https://rubennmg.com" target="_blank">
+    🌐 rubennmg.com
+  </a>
 </p>
 
 ---
 
-### About me
+### 👨‍💻 About me
 
 I'm a Computer Engineer with a Master's Degree in Computer Engineering from the University of Oviedo.
 
@@ -16,9 +22,14 @@ Currently, I'm growing professionally as a software engineer, with a strong focu
 
 ---
 
-### Connect with me
+### 🌍 Connect with me
 
 <p align="left">
+  <a href="https://rubennmg.com" target="_blank">
+    🌐 Personal website
+  </a>
+  <br />
+  <br />
   <a href="https://linkedin.com/in/rubennmg" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rubennmg" height="30" width="40" />
   </a>
